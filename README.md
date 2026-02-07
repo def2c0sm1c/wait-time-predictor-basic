@@ -1,4 +1,4 @@
-# wait-time-predictor
+# Wait-time-predictor
  
 In public services across India—ration shops, banks, government offices—people join queues with no reliable information about actual waiting times. Citizens waste hours due to misleading visual cues and unpredictable service dynamics.
 
