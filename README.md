@@ -5,8 +5,11 @@ In public services across India—ration shops, banks, government offices—peop
 ## Why Traditional Methods Fail:
 
 1.Visual estimation ("Looks short") ignores transaction complexity variations
+
 2.Token systems require expensive infrastructure and process changes
+
 3.Static schedules cannot adapt to real-time human variability (fatigue, interruptions)
+
 4.Manual counting misses the crucial factor: service speed patterns
 
 ## Core AI Insight
