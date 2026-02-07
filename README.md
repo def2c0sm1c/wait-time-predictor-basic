@@ -1,4 +1,4 @@
-# wait-time-predictor-basic
+# wait-time-predictor
  
 In public services across India—ration shops, banks, government offices—people join queues with no reliable information about actual waiting times. Citizens waste hours due to misleading visual cues and unpredictable service dynamics.
 
@@ -180,7 +180,7 @@ I
 
 4.Creates data-driven basis for infrastructure improvements
 
-📈 ## Implementation Pathway:
+## 📈 Implementation Pathway:
 
 ### Phase 1: Proof of Concept
 
@@ -221,8 +221,10 @@ I
 
 ## Scalable Impact:
 
-1.Applicable across multiple public service domains
+1.Applicable across multiple public service domains 
+
 2.Low-cost deployment model
+
 3.Generates systemic benefits beyond individual use
 
 
